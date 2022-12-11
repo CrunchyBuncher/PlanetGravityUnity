@@ -1,5 +1,5 @@
 # PlanetGravityUnity
-Quick implementation of spherical and cube-like gravity for a game. Similar to mario galaxy
+Quick implementation of planet-like gravity for a game. Similar to mario galaxy.
 
 
 https://github.com/user-attachments/assets/667509bc-14ff-42d9-872d-4243df0b4cde
